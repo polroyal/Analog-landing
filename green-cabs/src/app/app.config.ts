@@ -8,6 +8,7 @@ import { provideClientHydration } from '@angular/platform-browser';
 import { provideFileRouter, requestContextInterceptor } from '@analogjs/router';
 
 import { provideTrpcClient } from '../trpc-client';
+import { provideAnimations } from '@angular/platform-browser/animations';
 
 
 export const appConfig: ApplicationConfig = {
@@ -21,6 +22,8 @@ export const appConfig: ApplicationConfig = {
     ),
 
     provideTrpcClient(),
+
+    provideAnimations(),
 
   ],
 };

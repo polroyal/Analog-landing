@@ -1,0 +1,5 @@
+2024-10-11 13:36:01.000 [info] Started local extension host with pid 121480.
+2024-10-11 13:36:02.451 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-11 13:36:06.759 [info] [perf] Render performance baseline is 52ms
+2024-10-11 13:36:30.298 [error] Cannot read the extension from /root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3: ScanningExtension: Cannot read the extension from /root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3
+    at z.scanLocalExtension (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:126398)

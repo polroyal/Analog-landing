@@ -1,0 +1,74 @@
+@use '@angular/material' as mat;
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+$theme: mat.define-theme(
+  (
+    color: (
+      theme-type: light,
+      primary: mat.$azure-palette,
+      tertiary: mat.$blue-palette,
+    ),
+  )
+);
+
+body {
+    @include mat.all-component-themes($theme);
+    font-family: Roboto, 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 30px;
+    height: 100%;
+}
+  
+html {
+    height: 100%;
+}
+
+@include mat.core();
+@include mat.color-variants-backwards-compatibility($theme);
+
+// Import Swiper CSS globally
+@import 'swiper/swiper-bundle.min.css';
+
+// Swiper-specific styles
+.swiper-container {
+  width: 100%;
+  height: auto;
+}
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+mat-card {
+  max-width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.swiper-pagination-bullet {
+  background-color: #000; // Change color as needed
+  opacity: 0.7;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #007bff; // Active bullet color
+  opacity: 1;
+}
+
+
+@media (max-width: 768px) {
+  mat-card {
+    max-width: 200px;
+  }
+  .swiper-container {
+    width: 100%;
+  }
+}

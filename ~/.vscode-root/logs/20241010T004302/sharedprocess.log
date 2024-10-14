@@ -1,0 +1,53 @@
+2024-10-10 00:43:09.667 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:43:09.890 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:43:09.999 [info] Deleted uninstalled extension from disk ms-vscode-remote.remote-containers /root/.vscode/extensions/ms-vscode-remote.remote-containers-0.384.0
+2024-10-10 00:43:10.174 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:43:10.233 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:43:11.169 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:43:12.009 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:43:12.421 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:43:12.653 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:43:12.669 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:43:13.002 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:43:13.223 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:43:34.649 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-10-10 00:43:35.412 [info] Installing extension: ms-azuretools.vscode-docker {"productVersion":{"version":"1.94.1","date":"2024-10-05T05:38:20.563Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-10-10 00:43:36.239 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:43:36.262 [error] Error while installing the extension ms-azuretools.vscode-docker Cannot read the extension from /root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3 vscode-userdata:/root/.vscode/extensions/extensions.json
+2024-10-10 00:43:36.274 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-10-10 00:48:12.776 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:53:12.841 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 00:58:12.905 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 01:03:12.996 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 01:08:13.118 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 01:13:13.162 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 01:18:13.196 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 01:23:13.270 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 01:28:13.389 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 01:33:13.455 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 01:38:13.501 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 01:43:13.587 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 01:48:13.634 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 01:53:13.699 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 01:58:13.769 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 02:03:13.827 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 02:08:14.013 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 02:13:14.037 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 02:18:14.079 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 02:23:14.173 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 02:28:14.342 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 02:33:14.374 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 02:38:14.431 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 02:43:14.526 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 02:48:14.563 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 02:53:14.633 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 02:58:14.667 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 03:03:14.727 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 03:08:14.819 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-10-10 03:13:14.916 [error] [/root/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.

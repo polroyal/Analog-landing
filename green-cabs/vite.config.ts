@@ -31,9 +31,12 @@ export default defineConfig(({ mode }) => {
           routeRules: {
             '/': {
               prerender: false,
-            }
-          }
-        }
+            },
+          },
+        },
+        vite: {
+          inlineStylesExtension: 'scss',
+        },
       }),
       
       nxViteTsPaths(),
