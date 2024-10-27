@@ -1,0 +1,33 @@
+2024-10-21 12:59:53.756 [info] update#setState idle
+2024-10-21 13:00:23.760 [info] update#setState checking for updates
+2024-10-21 13:00:24.041 [info] update#setState idle
+2024-10-21 14:00:23.777 [info] update#setState checking for updates
+2024-10-21 14:00:24.317 [info] update#setState idle
+2024-10-21 15:00:23.816 [info] update#setState checking for updates
+2024-10-21 15:00:24.331 [info] update#setState idle
+2024-10-21 16:00:23.864 [info] update#setState checking for updates
+2024-10-21 16:00:24.450 [info] update#setState idle
+2024-10-21 17:00:23.907 [info] update#setState checking for updates
+2024-10-21 17:00:24.413 [info] update#setState idle
+2024-10-21 18:00:23.944 [info] update#setState checking for updates
+2024-10-21 18:00:24.286 [error] [network] #8: https://update.code.visualstudio.com/api/update/linux-x64/stable/384ff7382de624fb94dbaf6da11977bba1ecd427 - error undefined net::ERR_NAME_NOT_RESOLVED
+2024-10-21 18:00:24.291 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114527)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2024-10-21 18:00:24.308 [info] update#setState idle
+2024-10-21 19:01:24.245 [info] update#setState checking for updates
+2024-10-21 19:01:24.801 [info] update#setState idle
+2024-10-21 20:01:24.318 [info] update#setState checking for updates
+2024-10-21 20:01:24.838 [info] update#setState idle
+2024-10-21 21:01:24.392 [info] update#setState checking for updates
+2024-10-21 21:01:24.992 [info] update#setState idle
+2024-10-21 22:01:24.493 [info] update#setState checking for updates
+2024-10-21 22:01:25.374 [info] update#setState idle
+2024-10-21 23:01:24.582 [info] update#setState checking for updates
+2024-10-21 23:01:25.446 [info] update#setState idle
+2024-10-22 00:01:24.752 [info] update#setState checking for updates
+2024-10-22 00:01:25.353 [info] update#setState idle
+2024-10-22 01:01:24.848 [info] update#setState checking for updates
+2024-10-22 01:01:25.343 [info] update#setState idle
+2024-10-22 02:01:24.882 [info] update#setState checking for updates
+2024-10-22 02:01:25.505 [info] update#setState idle

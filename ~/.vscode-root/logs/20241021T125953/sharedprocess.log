@@ -1,0 +1,2 @@
+2024-10-21 17:55:15.922 [error] [network] #125: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2024-10-21 18:00:16.430 [error] [network] #126: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
